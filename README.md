@@ -11,3 +11,5 @@ To view the interactive distribution models on our GEE app, [click here](https:/
 
 ## Google Earth Engine Scripts
 Google Earth Engine Scripts shared here demonstrate example code for our liana distribution models. 
+
+Scripts will be shared upon publication and finalization of the project. 
