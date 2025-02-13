@@ -1,5 +1,3 @@
-# nearcticLianaMaps
-
 ## Google Earth Engine Web App
 To view the interactive distribution models on our GEE app, [click here](https://ee-jacobpeters.projects.earthengine.app/view/northamericanlianas)
 
