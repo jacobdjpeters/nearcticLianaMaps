@@ -10,6 +10,13 @@ The management of lianas is a promising natural climate solution (NCS) that may 
 To view the interactive distribution models on our GEE app, [click here](https://ee-jacobpeters.projects.earthengine.app/view/northamericanlianas)
 
 ## Google Earth Engine Scripts
+
 Google Earth Engine Scripts shared here demonstrate example code for our liana distribution models. 
+
+Scripts will be shared upon publication and finalization of the project. 
+
+## R scripts
+
+R scripts shared here contain example code demonstrating presence data downloading and variable selection. 
 
 Scripts will be shared upon publication and finalization of the project. 
