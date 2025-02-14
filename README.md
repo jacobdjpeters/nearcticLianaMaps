@@ -8,7 +8,7 @@ The management of lianas is a promising natural climate solution (NCS) that may 
 
 ## Liana "Infestation" Map
 
-The image below shows combined species distribution models for the eight taxa for which we predicted the current distribution. 
+The image below shows combined species distribution models for the eight taxa for which we predicted the current distribution, limited to the Nearctic region of North America. 
 
 In essence, the "redder" pixels in the image below correspond to higher likelihood of more liana taxa being present. 
 
