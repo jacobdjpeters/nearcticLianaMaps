@@ -31,4 +31,4 @@ These examples use Oriental bittersweet (Celastrus orbiculatus) presence data.
 
 R scripts shared here contain example code demonstrating presence data downloading and variable selection. 
 
-Scripts will be shared upon publication and finalization of the project. 
+[Presence Data Downloads from the Global Biodiversity Information Facility](https://github.com/jacobdjpeters/nearcticLianaMaps/gbifDataCollection_exampleCode.R)
