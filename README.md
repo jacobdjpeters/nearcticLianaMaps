@@ -13,6 +13,8 @@ To view the interactive distribution models on our GEE app, [click here](https:/
 
 Google Earth Engine Scripts shared here demonstrate example code for variable prep and running liana distribution models. 
 
+These examples use Oriental bittersweet (Celastrus orbiculatus) presence data. 
+
 ### Habitat Suitability Models
 [Habitat Suitability Model Script](https://code.earthengine.google.com/15ad91462765c04340fd35678dcebfdb)
 
