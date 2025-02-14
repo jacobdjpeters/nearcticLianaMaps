@@ -15,6 +15,10 @@ Google Earth Engine Scripts shared here demonstrate example code for our liana d
 
 Scripts will be shared upon publication and finalization of the project. 
 
+Variable Prep Scripts 
+
+Species Distribution Models: [https://code.earthengine.google.com/ba2c13d448813f0715dd9e7931a2f8a5]
+
 ## R scripts
 
 R scripts shared here contain example code demonstrating presence data downloading and variable selection. 
