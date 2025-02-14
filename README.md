@@ -1,4 +1,4 @@
-## Link to publication 
+## Link to Publication 
 
 (coming soon)
 
