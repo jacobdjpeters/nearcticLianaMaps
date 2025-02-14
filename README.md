@@ -17,7 +17,7 @@ Scripts will be shared upon publication and finalization of the project.
 
 Variable Prep Scripts 
 
-Species Distribution Models: [https://code.earthengine.google.com/ba2c13d448813f0715dd9e7931a2f8a5]
+[Species Distribution Model Variable Prep](https://code.earthengine.google.com/ebe391a03339ce974de11ccb8df04809)
 
 ## R scripts
 
