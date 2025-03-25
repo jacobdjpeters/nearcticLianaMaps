@@ -52,10 +52,9 @@ These examples use Oriental bittersweet (Celastrus orbiculatus) presence data.
 
 ### Species Distribution Models
 
+[Species Distribution Model Script](https://code.earthengine.google.com/ea64c0c3d88ec2a206ef6577b475c132?noload=true)
+
 [Species Distribution Model Variable Prep Script](https://code.earthengine.google.com/08ae23a17699a166a7dbc4812fc2bd51?noload=true)
-
-[Species Distribution Model Script](https://code.earthengine.google.com/3b2289bf907bd8f28082dc199fbdfc1a)
-
 
 ## R scripts
 
