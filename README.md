@@ -46,13 +46,13 @@ Google Earth Engine Scripts shared here demonstrate example code for variable pr
 These examples use Oriental bittersweet (Celastrus orbiculatus) presence data. 
 
 ### Habitat Suitability Models
-[Habitat Suitability Model Script]([https://code.earthengine.google.com/15ad91462765c04340fd35678dcebfdb](https://code.earthengine.google.com/aa57cbe53e61e27f923e7ae3fec9756b?noload=true))
+[Habitat Suitability Model Script]()
 
-[Habitat Suitability Model Variable Prep Script](https://code.earthengine.google.com/47588c365b1fa56a5f9cb3272522076c)
+[Habitat Suitability Model Variable Prep Script](https://code.earthengine.google.com/2212a5150208f052b4a7d14c01407abb?noload=true)
 
 ### Species Distribution Models
 
-[Species Distribution Model Variable Prep Script](https://code.earthengine.google.com/e5302e3160e102c275609700e4905308)
+[Species Distribution Model Variable Prep Script](https://code.earthengine.google.com/08ae23a17699a166a7dbc4812fc2bd51?noload=true)
 
 [Species Distribution Model Script](https://code.earthengine.google.com/3b2289bf907bd8f28082dc199fbdfc1a)
 
